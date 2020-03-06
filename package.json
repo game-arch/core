@@ -1,6 +1,6 @@
 {
-  "name": "gamearch-core",
-  "version": "1.0.0",
+  "name": "core",
+  "version": "0.0.1",
   "description": "Core Library for GameArch",
   "main": "index.js",
   "scripts": {
