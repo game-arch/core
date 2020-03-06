@@ -9,7 +9,7 @@
     "target": "es2017",
     "sourceMap": true,
     "outDir": "./dist",
-    "baseUrl": "./",
+    "baseUrl": "./src",
     "types": [
       "node"
     ]
@@ -19,8 +19,6 @@
     "dist"
   ],
   "include": [
-    "./lib/**/*.ts",
-    "./services/**/*.ts",
-    "./node_modules/phaser/types/*.d.ts"
+    "./src/**/*.ts"
   ]
 }
